@@ -156,8 +156,20 @@ Setelah kita menyiapkan lingkungan LAMP, kita dapat mulai menginstal WordPress
 
   # Cara Menginstal Tableau Dekstop dari Windows
   1. Langkah pertama untuk menginstal tableau yaitu cari tableau di chrom kemudian pilih tableau public
-   
-2
+     ![image](https://github.com/Tiaraputri06/Tiara-Putri-Amanda_Laporan-tugas-1-2-Pemrosesan-Paralel/assets/150508674/20cd276c-8b33-4411-b37e-256e63d42cd7)
+  2. Selanjutnya Download Tableau tersebut
+    ![image](https://github.com/Tiaraputri06/Tiara-Putri-Amanda_Laporan-tugas-1-2-Pemrosesan-Paralel/assets/150508674/7927b12b-b1cb-4929-8279-02b5a73916c1)
+  3. Setelah terinstal masuk ke tableau dan masukan data untuk login ke tableau
+     ![image](https://github.com/Tiaraputri06/Tiara-Putri-Amanda_Laporan-tugas-1-2-Pemrosesan-Paralel/assets/150508674/ea40169a-42fc-4471-9e52-1afb611247ba)
+  4. Setelah itu kita disambut di layar tableau yang sudah login seperti gambar dibawah ini
+     ![image](https://github.com/Tiaraputri06/Tiara-Putri-Amanda_Laporan-tugas-1-2-Pemrosesan-Paralel/assets/150508674/dd9e0161-93b6-4086-952a-3a306329cbf7)
+
+ 
+
+
+
+
+
 
 
   
