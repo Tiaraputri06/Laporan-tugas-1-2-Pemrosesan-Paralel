@@ -1,10 +1,10 @@
 # Tiara-Putri-Amanda_Laporan-Apache2, Wordpress, Nginx, Tableau-Pemrosesan-Paralel
 # Cara Menginstall Apache, Wordpress, Nginx, Tableau Desktop Menggunakan Ubuntu Server
 # Daftar Isi
-- [Cara Menginstall Apache2 dan Cara Remote Server](# Cara Menginstall Apache2 dan Cara Remote Server-1)
-- [Cara Menginstall Wordpress]
-- [Cara Menginstall Nginx]
-- [Cara Menginstall Tableau Desktop Dari Windows]
+- [Cara Menginstall Apache2 dan Cara Remote Server](#cara-menginstall-apache2-dan-cara-remote-server)
+- [Cara Menginstall Wordpress](#cara-menginstall-wordpress)
+- [Cara Menginstall Nginx](#cara-instalasi-nginx)
+- [Cara Menginstall Tableau Desktop Dari Windows](#cara-menginstal-tableau-dekstop-dari-windows)
 # Cara Menginstall Apache2 dan Cara Remote Server
 ## Proses Instalasi Apache2
 Buka terminal di sistem Ubuntu. Terminal adalah antarmuka teks ke komputer, yang akan digunakan untuk menjalankan semua perintah.
