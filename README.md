@@ -1,4 +1,4 @@
-# Tiara-Putri-Amanda_Laporan-tugas-1-2-Pemrosesan-Paralel
+# Tiara-Putri-Amanda_Laporan-Apache2, Wordpress, Nginx, Tableau-Pemrosesan-Paralel
 # Cara Menginstall Apache, Wordpress, Hadoop, Nginx, Tableau Desktop Menggunakan Ubuntu Server
 # Daftar Isi
 - [Cara Menginstall Apache2 dan Cara Remote Server]
