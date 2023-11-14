@@ -1,7 +1,7 @@
 # Tiara-Putri-Amanda_Laporan-Apache2, Wordpress, Nginx, Tableau-Pemrosesan-Paralel
 # Cara Menginstall Apache, Wordpress, Nginx, Tableau Desktop Menggunakan Ubuntu Server
 # Daftar Isi
-- [Cara Menginstall Apache2 dan Cara Remote Server]
+- #[Cara Menginstall Apache2 dan Cara Remote Server]
 - [Cara Menginstall Wordpress]
 - [Cara Menginstall Nginx]
 - [Cara Menginstall Tableau Desktop Dari Windows]
